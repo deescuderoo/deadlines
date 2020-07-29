@@ -1,7 +1,15 @@
 ---
-- name: Security
-  tag: SEC
-- name: Privacy
-  tag: PRIV
-- name: Crypto
+- name: Applied
+  tag: APPLIED
+- name: Theoretical
+  tag: THEORY
+- name: Mathematical
+  tag: MATH
+- name: Crypto (apply and theoretical)
   tag: CRYPTO
+- name: Conferences
+  tag: CONF
+- name: Journals
+  tag: JRNL
+- name: Workshops (no proceedings)
+  tag: WKSH

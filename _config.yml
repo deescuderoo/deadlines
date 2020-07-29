@@ -1,14 +1,12 @@
-title: Security and Privacy Conference Deadlines
+title: Cryptography Conferences, Workshops and Journals Deadlines
 description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+author: Daniel Escudero
 
-domain: "sec-deadlines.github.io"
-baseurl: ""
+domain: "https://deescuderoo.github.io/deadlines"
+baseurl: "/deadlines"
 
-twitter_username: hiddenmarkov
-github_username: sec-deadlines
-github_repo: sec-deadlines
-ga_id: UA-104921371-1
+twitter_username: deescuderoo
+github_username: deescuderoo
+github_repo: deadlines
 
 markdown: kramdown
-
