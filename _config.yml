@@ -3,7 +3,7 @@ description: Countdowns to top Security and Privacy conference deadlines.
 author: Daniel Escudero
 
 domain: "https://deescuderoo.github.io/deadlines"
-baseurl: ""
+baseurl: "/deadlines"
 
 twitter_username: deescuderoo
 github_username: deescuderoo
