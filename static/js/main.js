@@ -142,7 +142,7 @@ $(function() {
       var show = false;
       for (var i = 0; i < all_tags.length; i++) {
         if(conf.hasClass(all_tags[i])) {
-          show = show & toggle_status[all_tags[i]];
+          show = show | toggle_status[all_tags[i]];
         }
       }
       if (show) {
